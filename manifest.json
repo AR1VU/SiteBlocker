@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "SiteBlocker",
+  "description": "Bad Websites Blocker",
+  "version": "1.0.0",
+  "icons": {
+    "48": "logo48.png"
+  },
+  "action": {
+    "default_icon": {
+      "48": "logo48.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentscript.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
