@@ -22,5 +22,5 @@ List of banned sites:
 - krunker.io
 
 If you would like to add a site to block, you can add it to the `contentscript.js` file
-![image](https://github.com/AR1VU/SiteBlocker/assets/79403828/fdf94f7c-8c9d-4be9-becd-b96abf5be9d8)
+![image](https://github.com/AR1VU/SiteBlocker/assets/79403828/fdf94f7c-8c9d-4be9-becd-b96abf5be9d8)<br>
 Add the URL of the site excluding "https://" and seperate each site with a `,`
