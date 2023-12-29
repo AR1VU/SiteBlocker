@@ -2,7 +2,7 @@
 This extension will help block distractions like banning sites like YouTube, Instagram, etc.
 
 ## Installation
-1. Download the code by clicking the green code button `Code < Download ZIP`
+1. Download the code: [Download](https://codeload.github.com/AR1VU/SiteBlocker/zip/refs/heads/main)
 2. Extract the files to your desktop
 3. Open your browser extention settings `chrome://extensions/`
 4. Enable Developer Mode
