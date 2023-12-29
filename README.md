@@ -12,6 +12,7 @@ This extension will help block distractions like banning sites like YouTube, Ins
 
 If you are having trouble you can use [this video](https://www.youtube.com/watch?v=dhaGRJvJAII)
 
+---
 
 List of banned sites: 
 - youtube.com
